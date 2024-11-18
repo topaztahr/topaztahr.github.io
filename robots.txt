@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://topaztahr.github.io/topaztahr_github_io_zp529_10.txt
+Sitemap: https://topaztahr.github.io/topaztahr_github_io_zp529_16.txt
+Sitemap: https://topaztahr.github.io/topaztahr_github_io_zp529_21.txt
+Sitemap: https://topaztahr.github.io/topaztahr_github_io_zp529_27.txt
+Sitemap: https://topaztahr.github.io/topaztahr_github_io_zp529_4.txt
